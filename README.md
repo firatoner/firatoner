@@ -5,9 +5,9 @@
 - 📫 firatyigitoner@gmail.com or FIRAT#1442 to reach me
 
 # My Social Media's 
-https://firatoner.github.io
-https://www.instagram.com/fir4t.0/
-https://twitter.com/44firatoner
+- https://firatoner.github.io
+- https://www.instagram.com/fir4t.0/
+- https://twitter.com/44firatoner
 
 
 <!---

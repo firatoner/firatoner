@@ -1,16 +1,15 @@
-- 👋 Hi, I’m @firatoner
-- 👀 I'm interested in Python, Discord Bots, Lua, FiveM development
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on FiveM
-- 📫 firatyigitoner@gmail.com or FIRAT#1442 to reach me
+## Hey there 👋
 
-# My Social Media's 
-- https://firatoner.github.io
-- https://www.instagram.com/fir4t.0/
-- https://twitter.com/44firatoner
+Welcome to my page! I'm Fırat Öner, a code-addicted student. **Osmaniye, Turkey**. 
 
+![](https://komarev.com/ghpvc/?username=firatoner&color=green)
 
-<!---
-firatoner/firatoner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://www.youtube.com/channel/UCrGen_iXOobsOlvmUXlFoAw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>
+<a href="https://twitter.com/44firatoner" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@44firatoner'></a>
+<a href="https://firatonerçgithub.io" target="_blank">Website</a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firatoner)
+
+### Contact me 🤝
+* Email: firatyigitoner@gmail.com
+* Discord: FIRAT#3131

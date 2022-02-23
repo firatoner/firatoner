@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @firatoner
-- 👀 I'm interested in JavaScript,Python, Discord Bots, Lua, FiveM development
+- 👀 I'm interested in Python, Discord Bots, Lua, FiveM development
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on FiveM
 - 📫 firatyigitoner@gmail.com or FIRAT#1442 to reach me

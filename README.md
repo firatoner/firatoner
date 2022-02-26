@@ -2,6 +2,8 @@
 
 Welcome to my page! I'm Fırat Öner, a code-addicted student. **Osmaniye, Turkey**. 
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/439683620064722945)](https://discord.com/users/439683620064722945)
+
 ![](https://komarev.com/ghpvc/?username=firatoner&color=green)
 
 <a href="https://www.youtube.com/channel/UCrGen_iXOobsOlvmUXlFoAw" target="_blank"><img src='./images/youtube.svg' alt='YouTube' width="3%"></a>

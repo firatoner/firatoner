@@ -9,6 +9,7 @@ Welcome to my page! I'm Fırat Öner, a code-addicted student. **Osmaniye, Turke
 <a href="https://firatonerçgithub.io" target="_blank">Website</a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firatoner)
+https://github-readme-stats.vercel.app/api?username=firatoner&show_icons=true&theme=radical
 
 ### Contact me 🤝
 * Email: firatyigitoner@gmail.com

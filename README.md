@@ -16,5 +16,5 @@ Welcome to my page! I'm Fırat Öner, a code-addicted student. **Osmaniye, Turke
 
 ### Contact me 🤝
 * Email: firatyigitoner@gmail.com
-* Discord DM: <a href="https://discord.com/user/439683620064722945" target="_blank">FIRAT#3131</a>
+* Discord DM: <a href="https://discord.com/users/439683620064722945" target="_blank">FIRAT#3131</a>
 * Discord Server: <a href="https://discord.com/invite/sQKfaU8bds" target="_blank">The Witcher</a>

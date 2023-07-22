@@ -15,7 +15,5 @@ Welcome to my page! I'm Fırat Öner, a code-addicted student. **Istanbul, Turke
 <img alt="github-stats" src="https://github-readme-stats.vercel.app/api/?username=firatoner&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
 ### Contact me 🤝
-* Email: firatyigitoner@gmail.com
-* Discord DM: <a href="https://discord.com/users/439683620064722945" target="_blank">FIRAT#3131</a>
-*
-* Discord Server: <a href="https://discord.gg/JCXnjEt7W9" target="_blank">GHOST DEV</a>
+* Email: firatonerdev@gmail.com
+* Discord DM: <a href="https://discord.com/users/439683620064722945" target="_blank">FIRAT1303</a>

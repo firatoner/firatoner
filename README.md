@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-Welcome to my page! I'm Fırat Öner, a code-addicted student. **Osmaniye, Turkey**. 
+Welcome to my page! I'm Fırat Öner, a code-addicted student. **Istanbul, Turkey**. 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/439683620064722945)](https://discord.com/users/439683620064722945)
 

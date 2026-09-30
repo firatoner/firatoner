@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Fırat Öner — From curiosity to something you can use.</title>
+  <desc id="desc">A midnight blue studio board with lime typography and an abstract idea, prototype, refine diagram.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#263344" stroke-width="1"/></pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141e2b"/><stop offset="1" stop-color="#0b121c"/></linearGradient>
+  </defs>
+  <rect width="1200" height="440" rx="20" fill="url(#fade)"/>
+  <rect x="730" y="0" width="470" height="440" rx="20" fill="url(#grid)" opacity=".45"/>
+  <path d="M56 64h28" stroke="#d5fa63" stroke-width="4"/>
+  <text x="96" y="70" fill="#b6c2d0" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="3">FIRATONER / PERSONAL WORKSPACE</text>
+  <text x="52" y="183" fill="#f3f5ee" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="82" letter-spacing="-4">Fırat Öner<tspan fill="#d5fa63">.</tspan></text>
+  <text x="56" y="238" fill="#c5cfdb" font-family="Arial, Helvetica, sans-serif" font-size="26">From curiosity to something</text>
+  <text x="56" y="274" fill="#c5cfdb" font-family="Arial, Helvetica, sans-serif" font-size="26">you can use.</text>
+  <rect x="56" y="330" width="137" height="37" rx="18" fill="#d5fa63"/>
+  <text x="124.5" y="354" text-anchor="middle" fill="#101822" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1">WEB &amp; TOOLS</text>
+  <text x="213" y="354" fill="#8999ac" font-family="Arial, Helvetica, sans-serif" font-size="15">BUILD / BREAK / LEARN</text>
+  <circle cx="992" cy="218" r="156" fill="none" stroke="#394857" stroke-width="1" stroke-dasharray="3 8"/>
+  <circle cx="992" cy="218" r="116" fill="none" stroke="#394857" stroke-width="1"/>
+  <path d="M809 146H966V218H1104M855 291H966V218" fill="none" stroke="#d5fa63" stroke-width="2"/>
+  <rect x="782" y="118" width="151" height="57" rx="12" fill="#1a2737" stroke="#3b4c5f"/>
+  <text x="802" y="154" fill="#f3f5ee" font-family="monospace" font-size="19">01 / idea</text>
+  <rect x="920" y="187" width="229" height="64" rx="12" fill="#d5fa63"/>
+  <text x="943" y="227" fill="#142017" font-family="monospace" font-size="20" font-weight="700">02 / prototype</text>
+  <rect x="813" y="267" width="179" height="57" rx="12" fill="#1a2737" stroke="#3b4c5f"/>
+  <text x="835" y="303" fill="#f3f5ee" font-family="monospace" font-size="19">03 / refine</text>
+  <circle cx="1105" cy="99" r="7" fill="#fa967d"/>
+  <path d="M1117 322l10 10m0-10l-10 10" stroke="#fa967d" stroke-width="2"/>
+  <text x="1144" y="393" text-anchor="end" fill="#788a9d" font-family="monospace" font-size="13" letter-spacing="2">ALWAYS A WORK IN PROGRESS</text>
+</svg>

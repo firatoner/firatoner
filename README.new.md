@@ -79,4 +79,3 @@ I like a short loop: **ask a question → make a prototype → try it → improv
   <sub>Bir fikirle başlıyor. Yaparak öğreniyorum.</sub><br>
   <sub><a href="https://firatoner.dev">firatoner.dev</a> &nbsp; / &nbsp; <a href="mailto:firatonerdev@gmail.com">Let's talk</a></sub>
 </p>
-
